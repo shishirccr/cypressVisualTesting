@@ -1,5 +1,5 @@
 # What is it?
-An example of visual testin of a web based system using cypress and cypress-image-snapshot plugin
+An example of visual testing of a web based system using cypress and cypress-image-snapshot plugin
 
 ![course page diff](https://user-images.githubusercontent.com/54541188/83279185-bc0d8d00-a1a2-11ea-85d3-a44ba6aa1a62.png)
 
