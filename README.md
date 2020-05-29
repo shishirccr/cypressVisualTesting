@@ -1,6 +1,10 @@
 # What is it?
 An example of visual testin of a web based system using cypress and cypress-image-snapshot plugin
 
+![course page diff](https://user-images.githubusercontent.com/54541188/83279185-bc0d8d00-a1a2-11ea-85d3-a44ba6aa1a62.png)
+
+![signup page diff](https://user-images.githubusercontent.com/54541188/83279186-bca62380-a1a2-11ea-8d35-e5ee951a21a8.png)
+
 # Tooling
 Here is the view of tools used:
 * Node 10 [Download](https://nodejs.org/en/download/)
